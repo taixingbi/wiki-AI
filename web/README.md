@@ -7,7 +7,7 @@
  ---  
  * bootstrop(sass and less)
  ---   
- * d3 
+ * d3                 ×
  * nodejs             √              
 
 #### backend: 
