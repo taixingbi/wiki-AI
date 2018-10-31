@@ -1,5 +1,10 @@
 #### frontend: 
- * react (angular) bootstrop, d3, nodejs
+ * html               √
+ * css                √
+ * react (angular) 
+ * bootstrop 
+ * d3 
+ * nodejs             √           
 
 #### backend: 
  * django
