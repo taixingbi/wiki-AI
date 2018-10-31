@@ -14,5 +14,9 @@
 #### backend: 
  * django
 
+#### database:
+ * mysql              √
+ * mongoDB            √
+
 #### template: 
  * Jekyll Wordpress
