@@ -1,9 +1,13 @@
 #### frontend: 
  * html               √
  * css                √
+ *----------
  * react 
  * angular 
+ *----------
+ * sass
  * bootstrop 
+ *-----------
  * d3 
  * nodejs             √           
 
