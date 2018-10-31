@@ -3,7 +3,7 @@
  * css                √     <br />
  ---
  * react   
- * angular 
+ * angular            ×
  ---  
  * bootstrop(sass and less)
  ---   
