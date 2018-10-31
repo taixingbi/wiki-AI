@@ -1,7 +1,7 @@
 #### frontend: 
  * html               √    
- * css                √     
- <br />  
+ * css                √     <br />
+    
  * react   
  * angular 
  *----------    
