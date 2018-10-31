@@ -1,15 +1,15 @@
 #### frontend: 
- * html               √
- * css                √
- *----------
- * react 
+ * html               √    
+ * css                √     
+ *----------    
+ * react   
  * angular 
- *----------
+ *----------    
  * sass
  * bootstrop 
- *-----------
+ *-----------     
  * d3 
- * nodejs             √           
+ * nodejs             √              
 
 #### backend: 
  * django
