@@ -4,10 +4,10 @@
  ---
  * react   
  * angular 
- *----------    
+ ---  
  * sass
  * bootstrop 
- *-----------     
+ ---   
  * d3 
  * nodejs             √              
 
