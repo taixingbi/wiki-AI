@@ -1,4 +1,8 @@
-frontend: react (angular) bootstrop, d3, nodejs
-backend: django
+#### frontend: 
+ * react (angular) bootstrop, d3, nodejs
 
-template: Jekyll Wordpress
+#### backend: 
+ * django
+
+#### template: 
+ * Jekyll Wordpress
