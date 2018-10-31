@@ -5,8 +5,7 @@
  * react   
  * angular 
  ---  
- * sass
- * bootstrop 
+ * bootstrop(sass and less)
  ---   
  * d3 
  * nodejs             √              
