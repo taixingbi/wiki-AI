@@ -5,15 +5,19 @@
  
  ---
  * html               √    
- * css                √     <br />
+ * css                √     
+ * nodejs             √ 
  ---
  * react   
  * angular            ×
  ---  
  * bootstrop(sass and less)
+ ---
+ * REST
+ * JSON
  ---   
  * d3                 ×
- * nodejs             √              
+             
 
 #### backend: 
  * django
