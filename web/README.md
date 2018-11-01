@@ -10,6 +10,7 @@
  ---
  * React   
  * Angular            ×
+ * Django 
  ---  
  * Bootstrop(Sass and Less)
  ---
