@@ -1,4 +1,9 @@
 #### frontend: 
+ * python             √
+ * javascript
+ * java               ×
+ 
+ ---
  * html               √    
  * css                √     <br />
  ---
