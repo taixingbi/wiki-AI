@@ -1,7 +1,7 @@
 #### frontend: 
- * python             √
- * javascript ES6
- * java               ×
+ * Python             √
+ * Javascript ES6
+ * Java               ×
  
  ---
  * HTML               √    
@@ -11,7 +11,7 @@
  * React   
  * Angular            ×
  ---  
- * Bootstrop(sass and less)
+ * Bootstrop(Sass and Less)
  ---
  * REST
  * JSON
