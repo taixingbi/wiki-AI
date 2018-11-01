@@ -1,6 +1,6 @@
 #### frontend: 
  * python             √
- * javascript
+ * javascript EC6
  * java               ×
  
  ---
