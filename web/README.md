@@ -4,27 +4,27 @@
  * java               ×
  
  ---
- * html               √    
- * css                √     
- * nodejs             √ 
+ * HTML               √    
+ * CSS                √     
+ * Nodejs             √ 
  ---
- * react   
- * angular            ×
+ * React   
+ * Angular            ×
  ---  
- * bootstrop(sass and less)
+ * Bootstrop(sass and less)
  ---
  * REST
  * JSON
  ---   
- * d3                 ×
+ * D3                 ×
              
 
 #### backend: 
- * django
+ * Django
 
 #### database:
- * mysql              √
- * mongoDB            √
+ * Mysql              √
+ * MongoDB            √
 
 #### template: 
  * Jekyll Wordpress
