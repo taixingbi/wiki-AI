@@ -7,7 +7,10 @@
  * CSS                √     
  * Nodejs             √ 
  * ES6
- * Bootstrop(Sass and Less)
+ * Bootstrop
+   JQuest   
+   Sass     
+   Less    
  ---
  * React   
  * Angular            ×
@@ -15,6 +18,7 @@
  ---  
  * REST
  * JSON
+ * XML
  ---   
  * D3                 ×
              
