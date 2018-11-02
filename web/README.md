@@ -7,7 +7,7 @@
  * CSS                √     
  * Nodejs             √ 
  * ES6
- * Bootstrop
+ * Bootstrop     
    JQuest   
    Sass     
    Less    
