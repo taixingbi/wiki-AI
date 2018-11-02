@@ -1,12 +1,11 @@
 #### frontend: 
  * Python             √
- * Javascript         √  
+ * Javascript/ES6     √  
  * Java               ×
  ---
  * HTML               √    
  * CSS                √     
  * Nodejs             √ 
- * ES6
  * Bootstrop     
    JQuest   
    Sass     
