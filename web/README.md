@@ -5,7 +5,7 @@
  ---
  * HTML/CSS           √       
  * Nodejs             √ 
- * Bootstrop(Quest Sass Less)    √
+ * Bootstrop(Quest/Sass/Less)    √
  ---
  * React   
  * Angular            ×
