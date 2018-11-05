@@ -9,7 +9,7 @@
  ---
  * React   
  * Angular            ×
- * Django 
+ * Django             × 
  ---  
  * REST
  * JSON               √ 
