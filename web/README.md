@@ -12,8 +12,8 @@
  * Django 
  ---  
  * REST
- * JSON
- * XML
+ * JSON               √ 
+ * XML                √ 
  ---   
  * D3                 ×
              
