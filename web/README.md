@@ -3,8 +3,7 @@
  * Javascript/ES6     √  
  * Java               ×
  ---
- * HTML               √    
- * CSS                √     
+ * HTML/CSS           √       
  * Nodejs             √ 
  * Bootstrop     
    JQuest   
