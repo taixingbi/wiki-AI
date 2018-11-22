@@ -8,3 +8,4 @@
   * look for nlp
   * look for data scientist/data science
   * no finance/business
+  * machine learning 
