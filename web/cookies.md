@@ -8,7 +8,7 @@ Cookies were invented to solve the problem "how to remember information about th
   * Next time the user visits the page, the cookie "remembers" his **name**.    
   
   ---
-#### Security concerns
+### Security concerns
 Only the website that creates a cookie can read it, so other servers do not have access to your information.    
 token
 
