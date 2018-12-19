@@ -2,7 +2,7 @@
 delay between the sender and the receiver decoding it
   * The Speed of Light on a Computer Network (e.g. fiber at least 7.5 ms to travel 1,000 miles)    
   * Typical Internet Connection Latencies      
-    1 Fiber optic: 18 ms     
+    * Fiber optic: 18 ms     
     2 Cable internet: 26 ms     
     3 DSL: 44 ms      
     4 Satellite internet: 638 ms   
