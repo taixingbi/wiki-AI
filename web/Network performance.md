@@ -1,6 +1,7 @@
 ### Latency 
 delay between the sender and the receiver decoding it
-
+  * The Speed of Light on a Computer Network (e.g. fiber at least 7.5 ms to travel 1,000 miles)    
+  * Typical Internet Connection Latencies
 
 
 
