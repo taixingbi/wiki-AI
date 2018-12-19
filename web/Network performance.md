@@ -14,6 +14,7 @@ delay between the sender and the receiver decoding it
     * Lag switche e.g. online game
     
    * Causes of Lag on Home Networks   
+   
     * Overloaded router or modem     
     * Overloaded client device     
     * Malware     
