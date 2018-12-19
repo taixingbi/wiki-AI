@@ -5,7 +5,7 @@ bits/second is the maximum rate
 actual rate that information is transferred    
 
 #### Latency 
-the delay between the sender and the receiver decoding it
+delay between the sender and the receiver decoding it
 
 #### Jitter 
 variation in packet delay at the receiver of the information    
