@@ -2,11 +2,16 @@
 delay between the sender and the receiver decoding it
   * The Speed of Light on a Computer Network (e.g. fiber at least 7.5 ms to travel 1,000 miles)    
   * Typical Internet Connection Latencies    
-    Fiber optic: 18 ms   
-    Cable internet: 26 ms    
-    DSL: 44 ms    
-    Satellite internet: 638 ms    
-   
+    1. Fiber optic: 18 ms   
+    2. Cable internet: 26 ms    
+    3. DSL: 44 ms    
+    4. Satellite internet: 638 ms 
+    
+  * Causes of Lag on Internet Connections
+    1. internet traffic load. it varies by service provider and a person's geographic location  
+    2. Online application load. e.g. Multiplayer online games  
+    3. Weather and other wireless interference e.g. Satellite
+    4. Lag switche e.g. online game
 
 ---
 
