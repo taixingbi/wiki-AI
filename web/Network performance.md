@@ -12,6 +12,13 @@ delay between the sender and the receiver decoding it
     2. Online application load. e.g. Multiplayer online games  
     3. Weather and other wireless interference e.g. Satellite
     4. Lag switche e.g. online game
+    
+   * Causes of Lag on Home Networks
+    1 Overloaded router or modem
+    2 Overloaded client device
+    3 Malware
+    4 Use of wireless(wifi)
+    5 
 
 ---
 
