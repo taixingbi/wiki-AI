@@ -1,5 +1,4 @@
 ### GET 
-requests a representation of the specified resource
-
+request data (for presentation) from a specified resource.
 ### POST
-submits data to be processed (e.g., from an HTML form) to the identified resource.
+(e.g. form ) send data to a server to create/update a resource.
