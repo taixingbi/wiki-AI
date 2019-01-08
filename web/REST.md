@@ -1,7 +1,10 @@
 ## REST
 Representational State Transfer
 
-### GET 
+### GET(read)
 request data (for presentation) from a specified resource.
-### POST
+### POST(create)
 (e.g. form ) send data to a server to create/update a resource.
+### PUT(update)
+
+### DELETE(delete)
