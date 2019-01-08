@@ -1,3 +1,6 @@
+## REST
+Representational State Transfer
+
 ### GET 
 request data (for presentation) from a specified resource.
 ### POST
