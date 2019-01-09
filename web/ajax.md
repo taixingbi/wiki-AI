@@ -8,6 +8,12 @@ step 1 in browse, create request object and send request
     * 200 OK. The request has succeeded
     * 201 Created
     * 202 Accepted
+  * readyState    
+    * 0	UNSENT	Client has been created. open() not called yet.
+    * 1	OPENED	open() has been called.
+    * 2	HEADERS_RECEIVED	send() has been called, and headers and status are available.
+    * 3	LOADING	Downloading; responseText holds partial data.
+    * 4	DONE
     
 
 
