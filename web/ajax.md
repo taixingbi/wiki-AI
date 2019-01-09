@@ -3,17 +3,15 @@ when an event happen
 step 1 in browse, create request object and send request   
 * XMLHttpRequest
   * status
-    * 100 Continue
-    * 101 Switching Protocols
-    * 200 OK. The request has succeeded
-    * 201 Created
-    * 202 Accepted
+    * 200: OK. The request has succeeded
+    * 403: Forbidden
+    * 404: Not Found
   * readyState    
-    * 0	UNSENT	Client has been created. open() not called yet.
-    * 1	OPENED	open() has been called.
-    * 2	HEADERS_RECEIVED	send() has been called, and headers and status are available.
-    * 3	LOADING	Downloading; responseText holds partial data.
-    * 4	DONE
+    * 0: request not initialized 
+    * 1: server connection established
+    * 2: request received 
+    * 3: processing request 
+    * 4: request finished and response is ready
     
 
 
