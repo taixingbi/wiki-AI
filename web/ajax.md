@@ -2,6 +2,9 @@
 when an event happen     
 step 1 in browse, create request object and send request   
 * XMLHttpRequest
+  * status
+    * 100 Continue
+    * 
 
 
 
