@@ -4,8 +4,11 @@ step 1 in browse, create request object and send request
 * XMLHttpRequest
   * status
     * 100 Continue
-    * 
-
+    * 101 Switching Protocols
+    * 200 OK. The request has succeeded
+    * 201 Created
+    * 202 Accepted
+    
 
 
 step 2 in server, process request, and create a reqonse and send back to a browse     
