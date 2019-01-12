@@ -1,5 +1,5 @@
 * listen()  
-
+Whenever an HTTP request is received,it handles the request and returns some response.
         server.listen( function( request, response ) {    
             response.write( 'Hello' );   
             response.end();      
