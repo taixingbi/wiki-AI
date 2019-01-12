@@ -1,5 +1,9 @@
 
-#### from listen to event emmiter
+#### event 
+   * on:  bind a function with the event and 
+   * emit: fire an event.
+
+#### from server listen to event emmiter
 * listen()  
   
   Whenever an HTTP request is received,it handles the request and returns some response. 
@@ -29,3 +33,7 @@
                   this.emit( 'error', err );
           }
       }
+      
+   
+
+
