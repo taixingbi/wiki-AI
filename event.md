@@ -1,6 +1,6 @@
 * listen()  
   
-Whenever an HTTP request is received,it handles the request and returns some response. 
+   Whenever an HTTP request is received,it handles the request and returns some response. 
 
     server.listen( {
         handleRequest: function( request, response ) {
@@ -12,7 +12,7 @@ Whenever an HTTP request is received,it handles the request and returns some res
         }
     } );
 
-http server will call this function every time it receives an HTTP request
+  http server will call this function every time it receives an HTTP request
 
 * event emitter  
   use multiple handlers for the same event 
