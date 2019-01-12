@@ -13,3 +13,17 @@ Whenever an HTTP request is received,it handles the request and returns some res
     } );
 
 http server will call this function every time it receives an HTTP request
+
+* event emitter  
+  * use multiple handlers for the same event 
+  
+        const EventEmitter = require( 'events' );
+        class MyClass extends EventEmitter {
+            doSomething() {
+                // do something...
+                if ( !err )
+                    this.emit( 'success', result );
+                else
+                    this.emit( 'error', err );
+            }
+        }
