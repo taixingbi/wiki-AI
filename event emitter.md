@@ -1,6 +1,6 @@
 
 #### event 
-   * on:  bind a function with the event and 
+   * on:  bind a function with the event
    * emit: fire an event.
 
 #### from server listen to event emmiter
