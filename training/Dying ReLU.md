@@ -1,2 +1,2 @@
-### DNS
-Domain Name Servers, translate a domain name into an IP address(phone book)
+### Dying ReLU
+https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks
